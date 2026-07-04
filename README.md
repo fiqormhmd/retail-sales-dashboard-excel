@@ -27,7 +27,7 @@ This project analyzes retail sales data using Microsoft Excel to identify sales 
 
 ## 📈 Dashboard Preview
 
-*(Dashboard image will be added here.)*
+![Dashboard](dashboard.png)
 
 ---
 
